@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg843"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="bg.svg">
+  <defs
+     id="defs837">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1422">
+      <path
+         d="M 0,841.89 H 595.276 V 0 H 0 Z"
+         id="path1420" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1430">
+      <path
+         d="M -18.8412,851.802 H 603.253 V -19.5951 H -18.8412 Z"
+         id="path1428" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1444">
+      <path
+         d="M 0,1.001 H 595.275 V 841.89 H 0 Z"
+         id="path1442" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1452">
+      <path
+         d="M 222.98,287.11 H 988.5 V -404.67 H 222.98 Z"
+         id="path1450" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1468">
+      <path
+         d="M -320.5,719.74 H 719.75 V -145.79 H -320.5 Z"
+         id="path1466" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1484">
+      <path
+         d="M -417.4,1042.32 H 695.07 V 34.6698 H -417.4 Z"
+         id="path1482" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1500">
+      <path
+         d="M -528.97,1298.85 H 583.49 V 294.6 H -528.97 Z"
+         id="path1498" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1700">
+      <path
+         d="M 0,841.89 H 595.276 V 0 H 0 Z"
+         id="path1698" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1752">
+      <path
+         d="m 106.075,796.294 h 8.132 v -4.904 h -8.132 z"
+         id="path1750" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1768">
+      <path
+         d="m 108.745,791.995 h 3.66 v -1.444 h -3.66 z"
+         id="path1766" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1788">
+      <path
+         d="m 107.7,791.811 h 5.688 v -2.27 H 107.7 Z"
+         id="path1786" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1422-4">
+      <path
+         d="M 0,841.89 H 595.276 V 0 H 0 Z"
+         id="path1420-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1430-5">
+      <path
+         d="M -18.8412,851.802 H 603.253 V -19.5951 H -18.8412 Z"
+         id="path1428-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1444-3">
+      <path
+         d="M 0,1.001 H 595.275 V 841.89 H 0 Z"
+         id="path1442-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1452-6">
+      <path
+         d="M 222.98,287.11 H 988.5 V -404.67 H 222.98 Z"
+         id="path1450-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1468-8">
+      <path
+         d="M -320.5,719.74 H 719.75 V -145.79 H -320.5 Z"
+         id="path1466-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1484-4">
+      <path
+         d="M -417.4,1042.32 H 695.07 V 34.6698 H -417.4 Z"
+         id="path1482-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1500-9">
+      <path
+         d="M -528.97,1298.85 H 583.49 V 294.6 H -528.97 Z"
+         id="path1498-3" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="456.832"
+     inkscape:cy="497.76046"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1631"
+     inkscape:window-height="1080"
+     inkscape:window-x="96"
+     inkscape:window-y="1350"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1416"
+       transform="matrix(0.35277777,0,0,-0.35277777,-6.990726e-5,297.00004)"
+       style="fill:#ffe1a9;fill-opacity:1">
+      <g
+         id="g1418"
+         clip-path="url(#clipPath1422)"
+         style="fill:#ffe1a9;fill-opacity:1">
+        <g
+           id="g1424"
+           style="fill:#ffe1a9;fill-opacity:1">
+          <g
+             id="g1426"
+             style="fill:#ffe1a9;fill-opacity:1" />
+          <g
+             id="g1436"
+             style="fill:#ffe1a9;fill-opacity:1">
+            <g
+               clip-path="url(#clipPath1430)"
+               opacity="0.770004"
+               id="g1434"
+               style="fill:#ffe1a9;fill-opacity:1">
+              <path
+                 d="M 603.253,-19.596 H -18.841 v 871.397 h 622.094 z"
+                 style="fill:#ffe1a9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path1432" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1438"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0648163e-4,297.1766)"
+       style="fill:#d38a00;fill-opacity:1;opacity:0.69933185">
+      <g
+         id="g1440"
+         clip-path="url(#clipPath1444)"
+         style="fill:#d38a00;fill-opacity:1">
+        <g
+           id="g1446"
+           style="fill:#d38a00;fill-opacity:1">
+          <g
+             id="g1448"
+             style="fill:#d38a00;fill-opacity:1" />
+          <g
+             id="g1460"
+             style="fill:#d38a00;fill-opacity:1">
+            <g
+               clip-path="url(#clipPath1452)"
+               opacity="0.619995"
+               id="g1458"
+               style="fill:#d38a00;fill-opacity:1">
+              <g
+                 transform="translate(988.5,76.6593)"
+                 id="g1456"
+                 style="fill:#d38a00;fill-opacity:1">
+                <path
+                   d="m 0,0 -544.42,-481.33 -221.1,301.001 442,390.779 z"
+                   style="fill:#d38a00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1454" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1462"
+           style="fill:#d38a00;fill-opacity:1">
+          <g
+             id="g1464"
+             style="fill:#d38a00;fill-opacity:1" />
+          <g
+             id="g1476"
+             style="fill:#d38a00;fill-opacity:1">
+            <g
+               clip-path="url(#clipPath1468)"
+               opacity="0.289993"
+               id="g1474"
+               style="fill:#d38a00;fill-opacity:1">
+              <g
+                 transform="translate(719.75,335.5402)"
+                 id="g1472"
+                 style="fill:#d38a00;fill-opacity:1">
+                <path
+                   d="m 0,0 -54.77,-48.431 -33.14,21.561 -453.35,-351.78 44.49,-60.56 -47.64,-42.12 c -165.28,26.989 -330.56,53.97 -495.84,80.96 40.82,33.17 81.65,66.33 122.47,99.5 22.27,-18.58 44.54,-37.17 66.81,-55.75 251.36,213.059 502.72,426.12 754.08,639.17 5.5,32.3 10.99,64.59 16.49,96.889 1.95,1.591 3.91,3.17 5.86,4.761 C -49.69,256.13 -24.84,128.07 0,0"
+                   style="fill:#d38a00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1470" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1478"
+           style="fill:#d38a00;fill-opacity:1">
+          <g
+             id="g1480"
+             style="fill:#d38a00;fill-opacity:1" />
+          <g
+             id="g1492"
+             style="fill:#d38a00;fill-opacity:1">
+            <g
+               clip-path="url(#clipPath1484)"
+               opacity="0.520004"
+               id="g1490"
+               style="fill:#d38a00;fill-opacity:1">
+              <g
+                 transform="translate(695.0703,1042.3199)"
+                 id="g1488"
+                 style="fill:#d38a00;fill-opacity:1">
+                <path
+                   d="M 0,0 C -18.57,-109.11 -37.15,-218.23 -55.721,-327.34 -334.84,-554.11 -613.97,-780.88 -893.1,-1007.65 c -73.12,61.02 -146.24,122.029 -219.37,183.05 34.57,25.63 69.15,51.25 103.72,76.88 23.63,-19.72 47.25,-39.43 70.88,-59.151 251.36,213.061 502.72,426.111 754.08,639.171 2.04,12 4.09,24.01 6.13,36.01 C -118.44,-87.79 -59.221,-43.89 0,0"
+                   style="fill:#d38a00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1486" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1494"
+           style="fill:#d38a00;fill-opacity:1">
+          <g
+             id="g1496"
+             style="fill:#d38a00;fill-opacity:1" />
+          <g
+             id="g1508"
+             style="fill:#d38a00;fill-opacity:1">
+            <g
+               clip-path="url(#clipPath1500)"
+               opacity="0.369995"
+               id="g1506"
+               style="fill:#d38a00;fill-opacity:1">
+              <g
+                 transform="translate(583.4902,1298.8497)"
+                 id="g1504"
+                 style="fill:#d38a00;fill-opacity:1">
+                <path
+                   d="m 0,0 c -22.03,-129.41 -44.05,-258.81 -66.08,-388.22 -277.03,-205.34 -554.05,-410.68 -831.09,-616.03 -71.76,59.88 -143.53,119.771 -215.29,179.65 C -741.64,-549.74 -370.82,-274.87 0,0"
+                   style="fill:#d38a00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1502" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1510"
+       transform="matrix(0.35277777,0,0,-0.35277777,344.09589,-55.334206)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">
+      <path
+         d="M 0,0 V -633.326"
+         style="fill:#000000;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         id="path1512" />
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0823px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1516"
+       x="295.65802"
+       y="-62.411953"><tspan
+         x="295.65802 303.88205 310.21906 318.14035"
+         y="-62.411953"
+         sodipodi:role="line"
+         id="tspan1514"
+         style="stroke-width:0.352778">MENU</tspan></text>
+    <g
+       id="g1518"
+       transform="matrix(0.35277777,0,0,-0.35277777,333.89119,-43.581098)">
+      <path
+         d="M 0,0 H -226.09"
+         style="fill:none;stroke:#edbf00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1520" />
+    </g>
+    <g
+       id="g1522"
+       transform="matrix(0.35277777,0,0,-0.35277777,254.1317,-55.848909)">
+      <path
+         d="M 0,0 H 226.09"
+         style="fill:none;stroke:#edbf00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1524" />
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.70278px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1528"
+       x="280.36697"
+       y="-47.433537"><tspan
+         x="280.36697 283.83902 288.10199 292.33813 296.29276 300.98471 304.51709 308.47171"
+         y="-47.433537"
+         sodipodi:role="line"
+         id="tspan1526"
+         style="stroke-width:0.352778">-BURGER-</tspan></text>
+    <g
+       id="g1530"
+       transform="matrix(0.35277777,0,0,-0.35277777,334.16354,139.88539)">
+      <path
+         d="M 0,0 H -226.089"
+         style="fill:none;stroke:#edbf00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1532" />
+    </g>
+    <g
+       id="g1534"
+       transform="matrix(0.35277777,0,0,-0.35277777,254.40422,127.95124)">
+      <path
+         d="M 0,0 H 226.089"
+         style="fill:none;stroke:#edbf00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1536" />
+    </g>
+    <g
+       id="g1538"
+       transform="matrix(0.35277777,0,0,-0.35277777,430.87181,-55.407937)">
+      <path
+         d="M 0,0 H -220.688"
+         style="fill:none;stroke:#edbf00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1540" />
+    </g>
+    <g
+       id="g1542"
+       transform="matrix(0.35277777,0,0,-0.35277777,353.01785,-67.675749)">
+      <path
+         d="M 0,0 H 220.688"
+         style="fill:none;stroke:#edbf00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1544" />
+    </g>
+    <g
+       id="g1546"
+       transform="matrix(0.35277777,0,0,-0.35277777,430.87181,140.21923)">
+      <path
+         d="M 0,0 H -220.688"
+         style="fill:none;stroke:#edbf00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1548" />
+    </g>
+    <g
+       id="g1550"
+       transform="matrix(0.35277777,0,0,-0.35277777,353.01785,127.95124)">
+      <path
+         d="M 0,0 H 220.688"
+         style="fill:none;stroke:#edbf00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1552" />
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.70278px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1560"
+       x="376.24985"
+       y="-59.438988"><tspan
+         x="376.24985 379.72189 383.98486 387.51721 392.71188 396.24423 400.19888 404.04022 408.72882 412.2612"
+         y="-59.438988"
+         sodipodi:role="line"
+         id="tspan1554"
+         style="stroke-width:0.352778">-BEVERAGE-</tspan><tspan
+         x="280.36661 283.83865 287.37103 291.32565 293.36331 296.89566 301.49377"
+         y="136.03412"
+         sodipodi:role="line"
+         id="tspan1556"
+         style="stroke-width:0.352778">-FRIED-</tspan><tspan
+         x="378.14005 381.61206 386.21017 389.74255 393.65027 397.55798 401.09033 404.72592 409.16986"
+         y="136.37595"
+         sodipodi:role="line"
+         id="tspan1558"
+         style="stroke-width:0.352778">-DESSERT-</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1564"
+       x="258.34799"
+       y="-37.256214"><tspan
+         x="258.34799 259.84943 262.46704 264.53644 267.45038 269.74796 272.65298 275.87808"
+         y="-37.256214"
+         sodipodi:role="line"
+         id="tspan1562"
+         style="stroke-width:0.352778">IL RAVA’</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1574"
+       x="258.34799"
+       y="-34.292915"><tspan
+         x="258.34799 259.91858 261.47925 263.05228 264.08698 265.69952 267.03873 268.67596 269.42667 271.15405 271.90475 273.8161 275.38913 277.30048 278.66858 279.96997 281.00467 282.60907 284.91306 286.48608 287.52078 288.96048 290.26187 291.60129 293.51263 295.33261 297.63663 298.54044"
+         y="-34.292915"
+         sodipodi:role="line"
+         id="tspan1566"
+         style="stroke-width:0.352778">Bun Artigianale con sesamo,</tspan><tspan
+         x="258.34799 259.99265 261.90399 263.72397 265.29456 266.85522 268.3295 270.05811 271.3595 272.83377 273.86847 275.00439 276.44409 278.04874 280.14777 281.785 283.20026 285.50424 287.07727 288.98862 290.02332 290.96912 292.43103 294.009 295.73639 296.87231 297.77612 298.81082 300.21594 301.51733 302.89407 304.3093 306.61328 307.64798 309.34204 310.09274 311.12744 312.60168 314.16238 315.76678 318.07077 319.43884 321.35019"
+         y="-31.329584"
+         sodipodi:role="line"
+         id="tspan1568"
+         style="stroke-width:0.352778">Hamburger (Scottona 120g), Pesto di rucola,</tspan><tspan
+         x="258.34799 259.75311 262.0571 263.87708 266.18109 267.87512 270.17911 271.65338 272.40283 273.97589 274.72659 275.76129 277.36569 279.66968 281.24271 282.5441 283.29483 284.93207 285.83588 286.87057 288.31027 289.78452 291.08591 292.81329 294.37894 295.41364 297.14224 298.61649 300.92047 302.52512 304.25372 306.16507 307.73813 309.37537 310.67676 311.58057"
+         y="-28.366251"
+         sodipodi:role="line"
+         id="tspan1570"
+         style="stroke-width:0.352778">Pomodorini confit, Speck croccante,</tspan><tspan
+         x="258.34799 260.0766 261.72125 263.02264 264.71671 266.20801 268.11935 269.5936 270.49741 271.5321 272.87131 274.78265 276.14948 277.48868 279.40002 280.43472 282.00528 283.57584 285.89465 286.92935 288.8407 290.20877 291.24347 292.39224 294.07272 295.80133 297.36694 298.40164 299.8927 301.80405 303.37708 304.12781 305.4292 306.79727"
+         y="-25.402918"
+         sodipodi:role="line"
+         id="tspan1572"
+         style="stroke-width:0.352778">Cheddar, Salsa bbq al Jack Daniels</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1578"
+       x="258.34799"
+       y="-19.386822"><tspan
+         x="258.34799 261.80524 265.09451 266.59595 270.05316 273.18442 275.7872 278.94565 281.01501 284.28952 287.20346 291.81143 294.62167 297.91098"
+         y="-19.386822"
+         sodipodi:role="line"
+         id="tspan1576"
+         style="stroke-width:0.352778">CHICKEN TROPHY</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1588"
+       x="258.34799"
+       y="-16.423525"><tspan
+         x="258.34799 259.91858 261.47925 263.05228 264.08698 265.69952 267.03873 268.67596 269.42667 271.15405 271.90475 273.8161 275.38913 277.30048 278.66858 279.96997 281.00467 282.60907 284.91306 286.48608 287.52078 288.96048 290.26187 291.60129 293.51263 295.33261 297.63663 298.54044"
+         y="-16.423525"
+         sodipodi:role="line"
+         id="tspan1580"
+         style="stroke-width:0.352778">Bun Artigianale con sesamo,</tspan><tspan
+         x="258.34799 259.75311 261.0545 262.69174 264.10675 266.41074 267.44543 269.13947 269.8902 270.92487 272.39914 274.70312 276.06998 277.21875 279.52274 280.55743 281.70624 283.61758 285.19061 286.68192 288.09689 290.40088 291.43558 292.737 293.7717 295.07309 296.54733 297.29681 298.93405 300.3493 302.65329 303.68799 304.82394 305.76971 307.34647 308.92444 310.65182 311.78778 312.69159"
+         y="-13.460191"
+         sodipodi:role="line"
+         id="tspan1582"
+         style="stroke-width:0.352778">Petto di pollo panato e fritto (150g),</tspan><tspan
+         x="258.34799 259.09872 260.82608 262.12747 263.69681 264.9982 266.47247 268.20108 269.10489 270.13959 271.86819 272.61768 274.09195 276.39594 277.76279 279.13083 281.04221 282.0769 283.3783 284.85254 285.60202 287.23926 288.46411 290.37546 291.27927 292.31396 293.71909 295.19333 297.2536 298.93405 301.23804 302.60489 304.51624 305.55093 307.46228 308.76367 310.06506 311.62576 313.44574 314.19647 315.92508 317.41638 318.64096 320.55231 321.45615"
+         y="-10.496858"
+         sodipodi:role="line"
+         id="tspan1584"
+         style="stroke-width:0.352778">Iceberg, Cipolla fritta, Provola affumicata,</tspan><tspan
+         x="258.34799 259.98032 261.89166 262.64236 264.94635 266.51938 267.8208 269.26047 270.56186 271.59656 273.5079 274.87601 276.24283 277.11453 278.41595 279.8902 281.34299 283.25433 284.28903 286.01639 286.76587 288.24014 290.54413 291.9122 293.28027 294.03098 295.604"
+         y="-7.533524"
+         sodipodi:role="line"
+         id="tspan1586"
+         style="stroke-width:0.352778">Maionese all’erba cipollina</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1592"
+       x="258.34799"
+       y="-2.9058559"><tspan
+         x="258.34799 261.6225 264.91177 267.51459 269.58398 273.0412 275.95514 278.2532 282.08084"
+         y="-2.9058559"
+         sodipodi:role="line"
+         id="tspan1590"
+         style="stroke-width:0.352778">THE GRAVY</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1602"
+       x="258.34799"
+       y="0.057442091"><tspan
+         x="258.34799 259.91858 261.47925 263.05228 264.08698 265.69952 267.03873 268.67596 269.42667 271.15405 271.90475 273.8161 275.38913 277.30048 278.66858 279.96997 281.00467 282.60907 284.91306 286.48608 287.52078 288.96048 290.26187 291.60129 293.51263 295.33261 297.63663 298.54044"
+         y="0.057442091"
+         sodipodi:role="line"
+         id="tspan1594"
+         style="stroke-width:0.352778">Bun Artigianale con sesamo,</tspan><tspan
+         x="258.34799 260.04205 262.34604 263.82028 265.29456 266.04404 268.34802 269.38272 271.02737 272.93872 274.7587 276.32925 277.88995 279.3642 281.0928 282.39423 283.86847 284.90317 286.03912 287.47879 289.08319 291.18222 292.81946 294.23471 296.5387 298.11172 300.02307 301.05777 302.00357 303.46548 305.04346 306.77084 307.80554 309.66998 311.13187 312.26782 313.17163"
+         y="3.0207753"
+         sodipodi:role="line"
+         id="tspan1596"
+         style="stroke-width:0.352778">Doppio Hamburger (scottona 120g x2),</tspan><tspan
+         x="258.34799 259.09872 260.82608 262.12747 263.69681 264.9982 266.47247 268.20108 269.10489 270.13959 271.54471 273.84869 275.66867 277.97269 279.66672 281.9707 283.44498 285.74896 286.65277 287.68747 289.41486 291.05951 292.3609 294.05493 295.54623 297.45758 298.93182 299.83566 300.87036 302.59897 303.34845 304.82269 307.12668 308.49353 309.8616 311.77295 312.80765 314.53625 316.4476 317.92188 319.83322 321.6532 322.95459 324.32144 325.68951 327.18054 328.4054 330.31674 331.22055"
+         y="5.9841084"
+         sodipodi:role="line"
+         id="tspan1598"
+         style="stroke-width:0.352778">Iceberg, Pomodoro, Cheddar, Cipolla caramellata,</tspan><tspan
+         x="258.34799 259.80054 261.48123 263.08563 265.38962 266.96265 267.99734 269.72595 271.20023 273.50421 275.10886 276.83624 278.74759 280.32062 281.95786 283.25925 284.16309 285.19778 286.63745 287.93887 289.5119 291.42325 292.89749 294.19891 295.23361 297.14496 298.51178 299.54648 301.36646 302.11594 303.41733 304.7854 306.08679 306.99063 308.02533 309.59094 310.89233 312.30759 314.03619 315.68085 317.24155 318.71579"
+         y="8.9474421"
+         sodipodi:role="line"
+         id="tspan1600"
+         style="stroke-width:0.352778">Bacon croccante, Senape al miele, Ketchup</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1606"
+       x="258.34799"
+       y="14.110168"><tspan
+         x="258.34799 259.84943 262.46704 264.53644 267.99365 272.60162 275.72302 278.63696 281.90155 284.50436"
+         y="14.110168"
+         sodipodi:role="line"
+         id="tspan1604"
+         style="stroke-width:0.352778">IL GOURMET</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1618"
+       x="258.34799"
+       y="17.073465"><tspan
+         x="258.34799 259.91858 261.47925 263.05228 264.08698 265.69952 267.03873 268.67596 269.42667 271.15405 271.90475 273.8161 275.38913 277.30048 278.66858 279.96997 281.00467 282.60907 284.91306 286.48608 287.52078 288.96048 290.26187 291.60129 293.51263 295.33261 297.63663 298.54044"
+         y="17.073465"
+         sodipodi:role="line"
+         id="tspan1608"
+         style="stroke-width:0.352778">Bun Artigianale con sesamo,</tspan><tspan
+         x="258.34799 259.99265 261.90399 263.72397 265.29456 266.85522 268.3295 270.05811 271.3595 272.83377 273.86847 275.00439 276.44409 278.04874 280.14777 281.785 283.20026 285.50424 287.07727 288.98862 290.02332 290.96912 292.43103 294.009 295.73639 296.87231 297.77612 298.81082 300.08505 301.64575 303.01382 303.76456 305.06595 306.63898 308.21201 309.5134"
+         y="20.036798"
+         sodipodi:role="line"
+         id="tspan1610"
+         style="stroke-width:0.352778">Hamburger (scottona 120g), Julienne</tspan><tspan
+         x="258.34799 260.04205 260.79276 261.82745 262.57693 264.30554 265.60693 267.17749 268.47888 269.95316 271.68176 272.71646 273.46594 275.03897 276.07367 277.80228 278.55176 280.189 281.66327 283.96725 285.54028 286.84167 288.47891 290.11618 291.41757 292.45227 294.36362 295.73169 297.09851 298.3999 299.43463 300.73602 302.21027 303.78082 305.08224 306.11694 308.02829 309.50253 311.80652 313.62653 315.11755 316.75482 317.50552 319.23288 320.87753 322.17892 323.08276"
+         y="23.000132"
+         sodipodi:role="line"
+         id="tspan1612"
+         style="stroke-width:0.352778">di iceberg in citronette alle erbe aromatiche,</tspan><tspan
+         x="258.34799 259.75311 262.0571 263.87708 266.18109 267.87512 270.17911 271.65338 272.40283 273.97589 274.72659 275.76129 277.36569 279.66968 280.97107 281.72055 283.35779 284.2616 285.2963 287.02493 287.77414 289.68549 291.05234 292.54364 294.45499 295.48969 297.18372 297.93442 298.96912 300.44339 301.74478 303.34943 305.65341 307.12769 307.87839 309.45142 311.7554 312.65924 313.69394 315.03336 316.9447 318.31277 319.65195 321.56329 322.59799 324.05496 325.31808 326.58145 328.4928 329.36453 329.8436 330.74741"
+         y="25.963467"
+         sodipodi:role="line"
+         id="tspan1614"
+         style="stroke-width:0.352778">Pomodorini cofit, Cialda di pecorino, Salsa Rava’á,</tspan><tspan
+         x="258.34799 259.98032 261.89166 262.64236 264.94635 266.51938 267.8208 269.26047 270.56186 271.59656 273.5079 274.87601 276.02454 278.32852 279.36322 280.94861 282.85995 284.16135 285.46274 286.76413 288.2384 290.14975 291.72278"
+         y="28.926798"
+         sodipodi:role="line"
+         id="tspan1616"
+         style="stroke-width:0.352778">Maionese allo zafferano</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1622"
+       x="258.34799"
+       y="34.246407"><tspan
+         x="258.34799 259.84943 262.46704 264.53644 267.99365 270.61127 273.83636 276.71573 279.59509 281.09653 284.30533 288.9133"
+         y="34.246407"
+         sodipodi:role="line"
+         id="tspan1620"
+         style="stroke-width:0.352778">IL CLASSICO</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1626"
+       x="290.97495"
+       y="34.246407"><tspan
+         x="290.97495 292.11087 293.60217 295.01743 296.6218 298.92581 300.505 301.5397 303.26831 304.91296 306.21436 307.51578 308.95544 310.25684 311.29153 312.86212 314.42279 315.87976 317.60715 318.90854 320.36551"
+         y="34.246407"
+         sodipodi:role="line"
+         id="tspan1624"
+         style="stroke-width:0.352778">(BACON CHEESE BURGER)</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1630"
+       x="258.34863"
+       y="37.20974"><tspan
+         x="258.34863 259.91919 261.47989 263.05292 264.08762 265.70016 267.03934 268.67657 269.42731 271.15466 271.9054 273.81674 275.38977 277.30112 278.66919 279.97058 281.00528 282.60968 284.91367 286.48672 287.52142 288.96109 290.26248 291.60168 293.51303 295.33301 297.63699 298.5408 299.5755 300.0546 301.7832 303.08459 304.72183 306.19608 306.94556 309.24957 310.61639 311.3671 312.94016 313.68961"
+         y="37.20974"
+         sodipodi:role="line"
+         id="tspan1628"
+         style="stroke-width:0.352778">Bun Artigianale con sesamo, √Cetriolini</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1636"
+       x="258.34863"
+       y="40.173073"><tspan
+         x="258.34863 259.99329 261.90463 263.72461 265.29517 266.85587 268.33014 270.05875 271.36014 272.83438 273.86908 275.00504 276.44473 278.04938 280.14838 281.78564 283.20087 285.50485 287.07791 288.98926 290.02396 290.96976 292.43164 294.00964 295.737 296.87296 297.77676 298.81146 299.56094 301.13397 302.47342 304.38477 305.75284 307.24411 308.46872 310.38007 311.28387 312.31857 313.72369 316.02768 317.84769 320.15167 321.8457 324.14969 325.62396 327.92795 328.83176"
+         y="40.173073"
+         sodipodi:role="line"
+         id="tspan1632"
+         style="stroke-width:0.352778">Hamburger (scottona 120g), Insalata, Pomodoro,</tspan><tspan
+         x="258.34863 260.07724 261.72189 263.02328 264.71732 266.20862 268.11996 269.59424 270.49805 271.53275 272.98526 274.66574 276.27014 278.57413 280.14716 281.18185 282.91046 284.38474 286.68872 288.29312 290.02048 291.93185 293.50488 295.14212 296.44351 297.34732 298.38202 299.94766 301.24905 302.66431 304.39291 306.03754 307.59824 309.07251 310.10721 311.4086 312.4433 314.26328 316.17462 316.92532 319.22931 320.80237 322.10376 323.54346 324.84485"
+         y="43.136406"
+         sodipodi:role="line"
+         id="tspan1634"
+         style="stroke-width:0.352778">Cheddar, Bacon croccante, Ketchup e maionese</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1640"
+       x="258.34799"
+       y="48.535988"><tspan
+         x="258.34799 261.15823 264.2796 266.89722 269.51483 272.11761 275.50571 277.5751 280.38531 284.99332 287.90726"
+         y="48.535988"
+         sodipodi:role="line"
+         id="tspan1638"
+         style="stroke-width:0.352778">PULLED PORK</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1648"
+       x="258.34799"
+       y="51.499287"><tspan
+         x="258.34799 259.91858 261.47925 263.05228 264.08698 265.69952 267.03873 268.67596 269.42667 271.15405 271.90475 273.8161 275.38913 277.30048 278.66858 279.96997 281.00467 282.60907 284.91306 286.48608 287.52078 288.96048 290.26187 291.60129 293.51263 295.33261 297.63663 298.54044 299.57513 300.52094 302.09766 303.67563 305.40427 306.43893 308.133 308.8837 309.9184 311.35809 312.65948 313.41019 314.77826 316.45871 318.06311 319.7905 320.5412"
+         y="51.499287"
+         sodipodi:role="line"
+         id="tspan1642"
+         style="stroke-width:0.352778">Bun Artigianale con sesamo, 150g di sfilacci</tspan><tspan
+         x="258.34799 260.04205 260.79276 261.82745 263.64743 265.55878 266.30826 268.2196 269.58768 270.88907 271.79288 272.82758 274.55496 275.30566 276.77994 279.08392 280.452 281.81885 283.73019 284.76489 286.23914 288.54312 289.98282 291.32224 293.23358 294.26828 295.99689 297.90826 299.38251 301.29385 303.11383 304.41525 305.78207 307.15015 308.64145 309.8663 311.77765 312.68146"
+         y="54.46262"
+         sodipodi:role="line"
+         id="tspan1644"
+         style="stroke-width:0.352778">di maiale, Cipolla rossa caramellata,</tspan><tspan
+         x="258.34799 259.80054 261.48123 263.08563 265.38962 266.96265 267.99734 269.72595 271.20023 273.50421 275.10886 276.83624 278.74759 280.32062 281.95786 283.25925 284.16309 285.19778 286.92514 288.56979 289.87119 291.56525 293.05627 294.96765 296.44189 297.3457 298.3804 299.8201 301.12149 302.69452 304.60587 306.08014 307.38153 308.41623 310.32758 311.69565 312.73035 314.55032 315.30106 316.60245 317.97052"
+         y="57.425953"
+         sodipodi:role="line"
+         id="tspan1646"
+         style="stroke-width:0.352778">Bacon croccante, Cheddar, Senape al miele</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1652"
+       x="258.34799"
+       y="63.09668"><tspan
+         x="258.34799 259.84943 262.46704 264.53644 267.34665 268.84808 272.05688 275.5141 278.7392 281.89761 285.17209"
+         y="63.09668"
+         sodipodi:role="line"
+         id="tspan1650"
+         style="stroke-width:0.352778">IL PICCANTE</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1660"
+       x="258.34799"
+       y="66.059975"><tspan
+         x="258.34799 259.91858 261.47925 263.05228 264.08698 265.69952 267.03873 268.67596 269.42667 271.15405 271.90475 273.8161 275.38913 277.30048 278.66858 279.96997 281.00467 282.60907 284.91306 286.48608 287.52078 288.96048 290.26187 291.60129 293.51263 295.33261 297.63663 298.54044 299.57513 301.21979 303.13113 304.95111 306.52167 308.08237 309.55661 311.284 312.58539 314.05966"
+         y="66.059975"
+         sodipodi:role="line"
+         id="tspan1654"
+         style="stroke-width:0.352778">Bun Artigianale con sesamo, Hamburger</tspan><tspan
+         x="258.34799 259.82227 260.57297 262.17761 263.905 265.81635 267.38937 269.02661 270.328 271.3627 272.49866 273.93835 275.54276 277.64151 279.27878 280.694 282.99799 284.57104 286.48239 287.51709 288.46286 289.92477 291.50275 293.23138 294.36731 295.27112 296.30582 297.05655 298.78391 300.08533 301.65588 302.95728 304.43155 306.15891 307.06274 308.09744 309.50253 311.80652 313.62653 315.93051 317.62454 319.92853 321.4028 323.70679 324.6106"
+         y="69.023308"
+         sodipodi:role="line"
+         id="tspan1656"
+         style="stroke-width:0.352778">piccante (scottona 120g), Iceberg, Pomodoro,</tspan><tspan
+         x="258.34799 259.92722 261.62125 263.18195 264.33047 266.24182 267.14563 268.18033 269.62003 270.92142 272.49445 274.40582 275.88007 277.18146 278.21616 280.1275 281.49557 282.53027 284.35025 285.09973 286.40112 287.7692 289.07062 289.97443 291.00912 292.64142 294.55276 295.30347 297.60748 299.18051 300.4819 301.9216 303.22299 304.25769 306.16904 307.53589 308.68466 310.98865 312.02335 313.60873 315.52008 316.82147 318.12286 319.42429 320.89853 322.80988 324.3829"
+         y="71.986641"
+         sodipodi:role="line"
+         id="tspan1658"
+         style="stroke-width:0.352778">Nduja, Senape al miele, Maionese allo zafferano</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1666"
+       x="258.34799"
+       y="77.339729"><tspan
+         x="258.34799 259.84943 262.46704 264.53644 267.34665 268.84808 271.76202 274.21121 276.73795"
+         y="77.339729"
+         sodipodi:role="line"
+         id="tspan1662"
+         style="stroke-width:0.352778">iL PIRATA</tspan><tspan
+         x="279.96304"
+         y="77.339729"
+         id="tspan1664"
+         style="stroke-width:0.352778" /></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1678"
+       x="258.34799"
+       y="80.303024"><tspan
+         x="258.34799 259.91858 261.47925 263.05228 264.08698 265.69952 267.03873 268.67596 269.42667 271.15405 271.90475 273.8161 275.38913 277.30048 278.66858 279.96997 281.00467 282.60907 284.91306 286.48608 287.52078 288.96048 290.26187 291.60129 293.51263 295.33261 297.63663 298.54044 299.57513 300.87653 301.62723 302.9953 304.29669 305.93396 307.34918 309.65317 310.68787 312.38193 313.13263 314.16733 315.64157 317.00964 318.50095 320.13818 321.43958 322.87927 324.21844 326.12979"
+         y="80.303024"
+         sodipodi:role="line"
+         id="tspan1668"
+         style="stroke-width:0.352778">Bun Artigianale con sesamo, Filetto di platessa</tspan><tspan
+         x="258.34799 259.29379 260.87054 262.44852 264.1759 265.21057 266.34653 267.49533 269.40668 270.78339 272.42062 273.72202 275.08887 276.45694 277.94824 279.36346 281.66745 282.70215 284.61349 285.98157 287.34842 288.64981 289.68451 290.9859 292.46017 294.03073 295.33212 296.36682 298.27817 299.75244 302.05643 303.8764 305.36771 307.00494 307.75565 309.48425 311.12891 312.43033 313.465 314.76642 316.22339 316.97409 318.61133 320.02658 322.33057 323.46652 324.37033"
+         y="83.266357"
+         sodipodi:role="line"
+         id="tspan1670"
+         style="stroke-width:0.352778">150g (pastellato alle erbe aromatiche FRITTO),</tspan><tspan
+         x="258.34799 259.62222 261.18292 262.54977 263.30048 264.60187 266.1749 267.74796 269.04935 270.08405 271.77808 272.52878 273.56348 274.31418 276.04282 277.34421 278.91476 280.21616 281.69043 283.41904 284.45374 285.20444 286.77747 287.81216 289.5408 290.2915 291.92874 293.40298 295.707 297.28003 298.58142 300.21866 301.8559 303.15732 304.19202 306.10336 307.47018 308.83826 310.13965 311.17435 312.47574 313.95001 315.52057 316.82199 317.85666 319.76804 321.24228 323.54626 325.36624 326.85754 328.49478 329.24426 330.97287 332.61752 333.91891 334.82275"
+         y="86.229691"
+         sodipodi:role="line"
+         id="tspan1672"
+         style="stroke-width:0.352778">Julienne di iceberg in citronette alle erbe aromatiche,</tspan><tspan
+         x="258.34799 259.75311 261.0545 262.43121 263.84622 266.15021 267.18491 268.87894 269.62967 270.66437 272.13861 273.69931 275.30371 277.6077 278.97577 280.88712 281.79092 282.82562 284.09985 285.66055 287.02737 287.77811 289.0795 290.65253 292.22556 293.52698 294.56168 296.25571 297.00519 298.03989 299.62524 301.18594 302.79059 304.51797 306.16263 306.91333 308.48636 309.78775 310.82245 312.64243 314.5538 316.02805 316.77875 318.35181 319.84308 321.48035 322.78174 323.81644 324.56714 326.14017 327.17487 328.51407 330.42542 331.79224 333.13165 335.04303"
+         y="89.193024"
+         sodipodi:role="line"
+         id="tspan1674"
+         style="stroke-width:0.352778">Pesto di rucola, Julienne di zucchine marinate in salsa</tspan><tspan
+         x="258.34799 259.98523 261.28665 262.76089 263.51038 264.81104 266.72238 268.28799 269.03748 269.94131 270.97598 272.3811 274.68509 276.5051 277.21628 278.25098 279.85538 282.15936 283.73242 285.03381 285.78329 287.42053 288.32434 289.35904 290.99133 292.90268 293.65341 295.9574 297.53043 298.83182 300.27151 301.57291 302.6076 304.51895 305.88702 307.2551 308.1268 309.42822 310.90247 312.35526 314.2666 315.3013 317.02866 317.77939 319.25363 321.55762 322.92447 324.29254 325.04324 326.61627"
+         y="92.156357"
+         sodipodi:role="line"
+         id="tspan1676"
+         style="stroke-width:0.352778">teriyaki, Pom. confit, Maionese all’erba cipollina</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1682"
+       x="258.34799"
+       y="96.967827"><tspan
+         x="258.34799 259.84943 262.46704 264.53644 267.9245 270.52731 273.1449 274.64633 278.10355 280.55276 283.38324"
+         y="96.967827"
+         sodipodi:role="line"
+         id="tspan1680"
+         style="stroke-width:0.352778">IL DELICATO</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1692"
+       x="258.34799"
+       y="99.931122"><tspan
+         x="258.34799 259.91858 261.47925 263.05228 264.08698 265.69952 267.03873 268.67596 269.42667 271.15405 271.90475 273.8161 275.38913 277.30048 278.66858 279.96997 281.00467 282.60907 284.91306 286.48608 287.52078 288.96048 290.26187 291.60129 293.51263 295.33261 297.63663 298.54044 299.57513 300.52094 302.09766 303.67563 305.40427 306.43893 308.133 308.8837 309.9184 311.39264 312.69406 314.3313 315.74652 318.05054"
+         y="99.931122"
+         sodipodi:role="line"
+         id="tspan1684"
+         style="stroke-width:0.352778">Bun Artigianale con sesamo, 150g di petto</tspan><tspan
+         x="258.34799 260.04205 260.79276 261.82745 263.3017 265.60568 266.97375 268.12256 270.42654 271.46124 273.37259 274.73944 276.10626 278.01761 279.05231 280.78091 282.25519 283.00589 284.7345 286.10257 286.85205 288.7634 289.66724 290.7019 291.97617 293.53683 294.90491 295.65564 296.95703 298.53006 300.10309 301.40448 302.43918 304.13324 304.88269 305.91739 306.66687 308.39426 309.69565 311.2662 312.56763 314.04187 315.77048 316.80518 317.55591 319.12894"
+         y="102.89445"
+         sodipodi:role="line"
+         id="tspan1686"
+         style="stroke-width:0.352778">di pollo alla griglia, Julienne di iceberg in</tspan><tspan
+         x="258.34799 260.0766 260.82608 262.46332 263.93759 266.24158 267.81461 269.116 270.75327 272.3905 273.69189 274.72659 276.63794 278.00601 279.37408 280.67548 281.71017 283.01157 284.48584 286.0564 287.35779 288.39249 290.30383 291.77811 294.08209 295.90207 297.39337 299.03061 299.78009 301.5087 303.15335 304.45474 305.35855 306.39325 307.83295 309.56155 311.24176 312.97037 314.33844 315.08917 316.39056 317.42526 319.11929 319.86877 320.90347 322.63208 324.10635 326.0177 327.59073 329.50208 330.40588"
+         y="105.85779"
+         sodipodi:role="line"
+         id="tspan1688"
+         style="stroke-width:0.352778">citronette alle erbe aromatiche, Scaglie di grana,</tspan><tspan
+         x="258.34799 259.62222 261.18292 262.54977 263.30048 264.60187 266.1749 267.74796 269.04935 270.08405 271.77808 272.52878 273.56348 275.14886 276.70956 278.31396 280.04257 281.68723 282.43793 284.01096 285.31235 286.34705 287.09778 288.67081 289.70551 291.04492 292.95627 294.32434 295.66327 297.57465 298.60931 300.24658 301.54797 302.84863 304.14929 306.06064 307.62625"
+         y="108.82112"
+         sodipodi:role="line"
+         id="tspan1690"
+         style="stroke-width:0.352778">Julienne di zucchine in salsa teryaki</tspan></text>
+    <g
+       id="g1694"
+       transform="matrix(0.35277777,0,0,-0.35277777,241.98207,208.22028)">
+      <g
+         id="g1696"
+         clip-path="url(#clipPath1700)">
+        <g
+           id="g1702"
+           transform="translate(99.1719,765.5568)">
+          <path
+             d="m 0,0 v 31.216 c 0,3.132 2.538,5.67 5.669,5.67 h 31.217 c 3.131,0 5.669,-2.538 5.669,-5.67 L 42.555,0 c 0,-3.131 -2.538,-5.669 -5.669,-5.669 H 5.669 C 2.538,-5.669 0,-3.131 0,0 Z"
+             style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1704" />
+        </g>
+        <g
+           id="g1706"
+           transform="translate(134.5215,780.3751)">
+          <path
+             d="M 0,0 1.696,-4.614 H 3.973 L 2.312,0 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path1708" />
+        </g>
+        <g
+           id="g1710"
+           transform="translate(134.5215,780.3751)">
+          <path
+             d="M 0,0 1.696,-4.614 H 3.973 L 2.312,0 Z"
+             style="fill:none;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1712" />
+        </g>
+        <g
+           id="g1714"
+           transform="translate(124.1514,781.8561)">
+          <path
+             d="M 0,0 C 1.868,3.807 3.737,7.613 5.605,11.42 7.101,7.53 8.597,3.641 10.093,-0.249 h 3.925 L 7.036,17.732 H 4.696 C -0.45,7.259 -5.597,-3.215 -10.743,-13.689 c -2.125,4.163 -4.251,8.327 -6.376,12.49 h -4.302 l 8.642,-17.916 h 3.397 C -6.254,-12.743 -3.127,-6.372 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1716" />
+        </g>
+        <g
+           id="g1718"
+           transform="translate(132.4126,787.3102)">
+          <path
+             d="M 0,0 H -6.391 C -6.81,-0.947 -7.229,-1.895 -7.648,-2.843 h 9.107 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path1720" />
+        </g>
+        <g
+           id="g1722"
+           transform="translate(132.4126,787.3102)">
+          <path
+             d="M 0,0 H -6.391 C -6.81,-0.947 -7.229,-1.895 -7.648,-2.843 h 9.107 z"
+             style="fill:none;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1724" />
+        </g>
+        <g
+           id="g1726"
+           transform="translate(102.73,781.7892)">
+          <path
+             d="m 0,0 v 17.807 c 2.252,-0.015 4.504,-0.03 6.756,-0.045 3.494,0.085 6.412,-1.687 7.25,-4.264 0.112,-0.345 0.61,-2.008 -0.043,-3.633 C 13.012,7.498 9.947,6.029 9.947,6.029 L 14.92,0 H 10.568 L 6.399,5.051 c 0,0 -1.828,-0.156 -2.303,-0.039 L 4.168,0 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path1728" />
+        </g>
+        <g
+           id="g1730"
+           transform="translate(102.73,781.7892)">
+          <path
+             d="m 0,0 v 17.807 c 2.252,-0.015 4.504,-0.03 6.756,-0.045 3.494,0.085 6.412,-1.687 7.25,-4.264 0.112,-0.345 0.61,-2.008 -0.043,-3.633 C 13.012,7.498 9.947,6.029 9.947,6.029 L 14.92,0 H 10.568 L 6.399,5.051 c 0,0 -1.828,-0.156 -2.303,-0.039 L 4.168,0 Z"
+             style="fill:none;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1732" />
+        </g>
+        <g
+           id="g1734"
+           transform="translate(124.1138,762.736)">
+          <path
+             d="M 0,0 C 1.902,3.876 3.805,7.752 5.708,11.628 7.204,7.739 8.699,3.85 10.195,-0.04 h 3.926 L 7.138,17.941 H 4.798 C 1.864,11.969 -1.07,5.997 -4.005,0.024"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1736" />
+        </g>
+        <g
+           id="g1738"
+           transform="translate(132.6592,768.5685)">
+          <path
+             d="M 0,0 H -6.391 C -6.81,-0.948 -7.229,-1.896 -7.648,-2.843 h 9.107 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path1740" />
+        </g>
+        <g
+           id="g1742"
+           transform="translate(132.6592,768.5685)">
+          <path
+             d="M 0,0 H -6.391 C -6.81,-0.948 -7.229,-1.896 -7.648,-2.843 h 9.107 z"
+             style="fill:none;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1744" />
+        </g>
+        <g
+           id="g1746">
+          <g
+             id="g1748" />
+          <g
+             id="g1760">
+            <g
+               clip-path="url(#clipPath1752)"
+               opacity="0.740005"
+               id="g1758">
+              <g
+                 transform="translate(106.5005,794.8136)"
+                 id="g1756">
+                <path
+                   d="M 0,0 C -0.09,0.335 0.1,0.667 0.35,0.865 0.605,1.07 0.912,1.178 1.215,1.264 1.828,1.427 2.459,1.466 3.086,1.48 3.712,1.484 4.345,1.453 4.973,1.309 5.284,1.226 5.6,1.127 5.887,0.932 6.162,0.734 6.448,0.44 6.414,-0.025 L 6.408,-0.111 6.31,-0.164 C 4.796,-0.988 2.952,-1.158 1.283,-0.722 c -0.407,0.099 -0.857,0.26 -1.199,0.401 -0.028,0.01 -0.053,0.008 -0.031,0.008 0.02,-0.011 0.129,0.054 0.132,0.09 0.014,0.052 0.003,-0.047 0.028,-0.118 0.039,-0.161 0.117,-0.347 0.199,-0.522 0.313,-0.735 0.845,-1.261 1.537,-1.567 0.68,-0.318 1.398,-0.26 2.108,0.042 0.683,0.295 1.259,0.812 1.599,1.509 0.084,0.172 0.165,0.35 0.223,0.536 L 5.99,-0.027 C 6.026,0.048 6.012,0.074 6.092,0.186 6.17,0.282 6.26,0.328 6.336,0.358 6.641,0.457 6.883,0.418 7.132,0.337 7.247,0.294 7.359,0.245 7.473,0.159 7.578,0.085 7.727,-0.083 7.705,-0.292 7.635,-0.665 7.408,-0.772 7.24,-0.914 7.058,-1.042 6.865,-1.139 6.673,-1.232 L 6.396,-1.358 c 0.021,0.009 0.052,0.061 0.04,0.103 -0.006,0.023 -0.009,0.027 -0.023,0.048 -0.121,0.092 -0.147,0.02 -0.127,0.042 -0.008,-0.003 0.006,0.002 0.006,0.002 l 0.034,0.014 0.07,0.032 0.141,0.067 0.568,0.264 L 7.143,-0.851 6.626,-1.209 6.495,-1.296 6.428,-1.34 6.392,-1.362 6.363,-1.376 c 0.017,0.02 -0.012,-0.053 -0.136,0.039 -0.013,0.023 -0.013,0.029 -0.016,0.053 -0.006,0.047 0.03,0.101 0.056,0.115 l 0.271,0.175 c 0.17,0.113 0.333,0.237 0.48,0.364 0.143,0.114 0.28,0.302 0.261,0.353 C 7.307,-0.279 7.157,-0.163 6.985,-0.131 6.839,-0.091 6.64,-0.106 6.553,-0.154 6.554,-0.119 6.525,-0.288 6.454,-0.519 6.399,-0.733 6.32,-0.942 6.234,-1.149 5.888,-1.973 5.219,-2.724 4.363,-3.085 3.937,-3.271 3.512,-3.398 3.013,-3.423 2.527,-3.434 2.054,-3.309 1.634,-3.11 c -0.838,0.38 -1.513,1.16 -1.816,1.982 -0.085,0.205 -0.165,0.409 -0.216,0.655 -0.015,0.13 -0.065,0.248 0.023,0.498 0.041,0.132 0.242,0.271 0.37,0.264 C 0.121,0.297 0.199,0.271 0.271,0.249 0.694,0.062 1.028,-0.069 1.428,-0.183 2.969,-0.637 4.676,-0.541 6.13,0.187 L 6.027,0.048 C 6.051,0.223 5.896,0.485 5.677,0.639 5.456,0.806 5.174,0.912 4.891,1 4.313,1.16 3.697,1.22 3.083,1.243 2.47,1.256 1.85,1.243 1.253,1.113 0.959,1.043 0.662,0.952 0.421,0.774 0.185,0.604 0.008,0.312 0.072,0.023 Z"
+                   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1754" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1762">
+          <g
+             id="g1764" />
+          <g
+             id="g1780">
+            <g
+               clip-path="url(#clipPath1768)"
+               opacity="0.740005"
+               id="g1778">
+              <g
+                 transform="translate(108.8076,791.0822)"
+                 id="g1772">
+                <path
+                   d="m 0,0 c 0.28,-0.097 0.71,-0.205 1.232,-0.172 1.061,0.065 1.773,0.658 2.01,0.876 0.08,0.047 0.192,0.107 0.222,0.075 C 3.504,0.737 3.385,0.558 3.344,0.504 2.978,0.023 1.672,-0.962 0,0"
+                   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1770" />
+              </g>
+              <g
+                 transform="translate(108.8076,791.0822)"
+                 id="g1776">
+                <path
+                   d="m 0,0 c 0.28,-0.097 0.71,-0.205 1.232,-0.172 1.061,0.065 1.773,0.658 2.01,0.876 0.08,0.047 0.192,0.107 0.222,0.075 C 3.504,0.737 3.385,0.558 3.344,0.504 2.978,0.023 1.672,-0.962 0,0 Z"
+                   style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path1774" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1782">
+          <g
+             id="g1784" />
+          <g
+             id="g1800">
+            <g
+               clip-path="url(#clipPath1788)"
+               opacity="0.740005"
+               id="g1798">
+              <g
+                 transform="translate(107.9517,790.3683)"
+                 id="g1792">
+                <path
+                   d="M 0,0 C 0.83,-0.228 1.541,-0.301 2.054,-0.322 3.427,-0.378 3.981,-0.086 4.134,0 4.381,0.139 4.562,0.295 4.681,0.409 4.789,0.518 4.859,0.618 4.903,0.689 4.961,0.784 4.975,0.832 5.077,1.03 5.176,1.225 5.227,1.322 5.252,1.318 5.313,1.307 5.341,0.992 5.267,0.7 5.267,0.7 5.21,0.498 5.103,0.32 4.894,-0.026 4.422,-0.463 3.25,-0.637 1.55,-0.89 -0.146,-0.345 -0.127,-0.101 -0.125,-0.073 -0.099,-0.037 0,0"
+                   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1790" />
+              </g>
+              <g
+                 transform="translate(107.9517,790.3683)"
+                 id="g1796">
+                <path
+                   d="M 0,0 C 0.83,-0.228 1.541,-0.301 2.054,-0.322 3.427,-0.378 3.981,-0.086 4.134,0 4.381,0.139 4.562,0.295 4.681,0.409 4.789,0.518 4.859,0.618 4.903,0.689 4.961,0.784 4.975,0.832 5.077,1.03 5.176,1.225 5.227,1.322 5.252,1.318 5.313,1.307 5.341,0.992 5.267,0.7 5.267,0.7 5.21,0.498 5.103,0.32 4.894,-0.026 4.422,-0.463 3.25,-0.637 1.55,-0.89 -0.146,-0.345 -0.127,-0.101 -0.125,-0.073 -0.099,-0.037 0,0 Z"
+                   style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path1794" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1806"
+       x="334.16354"
+       y="-37.256214"><tspan
+         x="334.16354"
+         y="-37.256214"
+         id="tspan1802"
+         style="stroke-width:0.352778">8</tspan><tspan
+         x="258.34665 262.17429 264.7771 268.23431 271.45941 274.61783 276.68723 279.56659 281.06802 284.23877"
+         y="114.26396"
+         sodipodi:role="line"
+         id="tspan1804"
+         style="stroke-width:0.352778">VEGAN SIZE</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#f9e491;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1814"
+       x="258.34799"
+       y="117.22894"><tspan
+         x="258.34799 259.91858 261.47925 263.05228 264.08698 265.69952 267.03873 268.67596 269.42667 271.15405 271.90475 273.8161 275.38913 277.30048 278.66858 279.96997 280.87378 281.90848 283.55313 285.46448 287.28445 288.85501 290.41571 291.88995 293.61734 294.91873 296.39301 297.4277 299.12173 299.87244 300.90714 302.81848 304.1199 305.59415 307.28818 308.84888 310.32315 311.62454 312.65924 314.47922 315.2287 316.60541 318.24265 319.54404 320.57874 321.71469 322.66049 324.23846 325.81644 327.54504 328.681 329.58481"
+         y="117.22894"
+         sodipodi:role="line"
+         id="tspan1808"
+         style="stroke-width:0.352778">Bun Artigianale, Hamburger di verdure miste (150g),</tspan><tspan
+         x="258.34799 259.09872 260.82608 262.12747 263.69681 264.9982 266.47247 268.20108 269.10489 270.13959 271.41382 272.97452 274.34137 275.09082 276.39224 277.96527 279.5383 280.83969 281.87439 283.56842 284.3179 285.3526 286.93799 288.49869 290.10309 291.8317 293.47635 294.22705 295.80008 297.10147 298.13617 299.95615 301.86752 303.34177 304.09125 305.66428 307.15533 308.79257 310.09396"
+         y="120.19228"
+         sodipodi:role="line"
+         id="tspan1810"
+         style="stroke-width:0.352778">Iceberg, Julienne di zucchine marinate</tspan><tspan
+         x="258.34799 259.09872 260.67175 261.70645 263.04562 264.95697 266.32504 267.66422 269.57556 270.61026 272.24753 273.54892 274.84933 276.15024 278.06158 279.6272 280.3779 281.28174 282.31644 283.72153 286.02554 287.84552 290.14951 291.84354 294.14752 295.6218 296.3725 297.94556 298.69501 299.72971 301.33435 303.63834 305.2114 306.51279 307.26349 308.90073 309.80457 310.83926 312.31351 313.6149 314.99164 316.40686 318.71085 319.74554 321.43958 322.19031 323.22501 324.69925 326.25995 327.86459 330.16858 331.53543 333.44678 333.92584"
+         y="123.15561"
+         sodipodi:role="line"
+         id="tspan1812"
+         style="stroke-width:0.352778">in salsa teryaki, Pomodorini confit, pesto di rucolaá</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1834"
+       x="333.9501"
+       y="-19.386822"><tspan
+         x="333.9501 337.25421 338.67664"
+         y="-19.386822"
+         sodipodi:role="line"
+         id="tspan1816"
+         style="stroke-width:0.352778">8.5</tspan><tspan
+         x="334.16248 336.05408 337.94568 339.36807"
+         y="-2.9057508"
+         sodipodi:role="line"
+         id="tspan1818"
+         style="stroke-width:0.352778">11.5</tspan><tspan
+         x="334.16248 337.46661 338.88901"
+         y="14.108721"
+         sodipodi:role="line"
+         id="tspan1820"
+         style="stroke-width:0.352778">8.5</tspan><tspan
+         x="333.9501"
+         y="33.972931"
+         id="tspan1822"
+         style="stroke-width:0.352778">8</tspan><tspan
+         x="334.16248 337.00729 338.42969"
+         y="48.532776"
+         sodipodi:role="line"
+         id="tspan1824"
+         style="stroke-width:0.352778">7.5</tspan><tspan
+         x="333.9501 337.25421 338.67664"
+         y="63.092621"
+         sodipodi:role="line"
+         id="tspan1826"
+         style="stroke-width:0.352778">8.5</tspan><tspan
+         x="333.9501"
+         y="77.336372"
+         id="tspan1828"
+         style="stroke-width:0.352778">8</tspan><tspan
+         x="334.16248 337.46661 338.88901"
+         y="96.963524"
+         sodipodi:role="line"
+         id="tspan1830"
+         style="stroke-width:0.352778">8.5</tspan><tspan
+         x="334.16248"
+         y="114.25951"
+         id="tspan1832"
+         style="stroke-width:0.352778">7</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1958"
+       x="258.34799"
+       y="149.0966"><tspan
+         x="258.34799 260.48145 262.75571 265.10196 267.37668 270.41727 272.83414 274.75574 277.46155 280.35995 282.91626 285.95685 287.35101 290.55902 293.61337 296.03024"
+         y="149.0966"
+         sodipodi:role="line"
+         id="tspan1836"
+         style="stroke-width:0.352778">PATATE RUSTICHE</tspan><tspan
+         x="258.34799 261.0217 263.92014 266.52963 269.13913 271.56976 272.96164"
+         y="154.59993"
+         sodipodi:role="line"
+         id="tspan1838"
+         style="stroke-width:0.352778">SUPPLi’</tspan><tspan
+         x="258.34799 261.55829 264.26407 268.54294 271.52298 274.73096 277.78531 280.20218 283.2428 286.28339 288.70026 290.62183 292.75531 295.03 297.37579 299.65051 302.6911 305.108 307.02957 309.13919 311.85416"
+         y="160.10327"
+         sodipodi:role="line"
+         id="tspan1840"
+         style="stroke-width:0.352778">CROCCHETTE PATATE (2)</tspan><tspan
+         x="258.34799 260.76489 262.15906 266.4379 269.14371 271.56058 273.48218 276.62823 278.02243 279.944 282.88828 285.78671 288.76675 291.97473"
+         y="165.6066"
+         sodipodi:role="line"
+         id="tspan1842"
+         style="stroke-width:0.352778">FIORE DI ZUCCA</tspan><tspan
+         x="258.34799 261.90222 264.31912 267.02493 270.17099 273.06943 275.77521 278.19211 280.11368 281.50787 284.44067 286.36227 288.49573 291.49045 294.04675 297.08734 299.50421 301.93484 304.36551"
+         y="171.10994"
+         sodipodi:role="line"
+         id="tspan1844"
+         style="stroke-width:0.352778">VERDURE IN PASTELLA</tspan><tspan
+         x="334.16559"
+         y="149.0966"
+         id="tspan1846"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="334.16559"
+         y="154.76045"
+         id="tspan1848"
+         style="stroke-width:0.352778">2</tspan><tspan
+         x="333.89502 335.65149 336.97229"
+         y="160.40137"
+         sodipodi:role="line"
+         id="tspan1850"
+         style="stroke-width:0.352778">1.5</tspan><tspan
+         x="333.89502 336.60999 337.93079"
+         y="165.73502"
+         sodipodi:role="line"
+         id="tspan1852"
+         style="stroke-width:0.352778">2.5</tspan><tspan
+         x="357.3392 360.25598 361.65015 364.38806 367.12598 370.67563 372.5972 375.3663 378.26471 381.47498 384.01569"
+         y="-36.425339"
+         sodipodi:role="line"
+         id="tspan1854"
+         style="stroke-width:0.352778">Birra 33cl</tspan><tspan
+         x="357.3392 360.25598 361.65015 364.38806 367.12598 370.67563 372.5972 375.52542 378.45596 381.66623"
+         y="-30.922016"
+         sodipodi:role="line"
+         id="tspan1856"
+         style="stroke-width:0.352778">Birra 50cl</tspan><tspan
+         x="357.3392 360.54947 364.09912 366.63754 368.03171 371.23972 373.65659 375.57816 379.13242 380.52658 383.44794"
+         y="-25.41868"
+         sodipodi:role="line"
+         id="tspan1858"
+         style="stroke-width:0.352778">Calice Vino</tspan><tspan
+         x="357.3392 360.54947 364.09912 366.63754 368.03171 371.23972 373.65659 375.57816 378.18765 380.92557 385.20441 387.87811 390.29501 393.2746 396.25464"
+         y="-19.915346"
+         sodipodi:role="line"
+         id="tspan1860"
+         style="stroke-width:0.352778">Calice Prosecco</tspan><tspan
+         x="357.3392 360.54947 363.28738 367.56622 370.71231 372.10648 375.02783 379.30667"
+         y="-14.412021"
+         sodipodi:role="line"
+         id="tspan1862"
+         style="stroke-width:0.352778">Crodino</tspan><tspan
+         x="357.3392 360.25598 361.65015 364.69073 367.73132 370.14822 372.88611"
+         y="-8.9086857"
+         sodipodi:role="line"
+         id="tspan1864"
+         style="stroke-width:0.352778">Bitter</tspan><tspan
+         x="357.3392 360.54947 362.96637 366.11243 368.81824 371.0925 373.43875"
+         y="-3.40535"
+         sodipodi:role="line"
+         id="tspan1866"
+         style="stroke-width:0.352778">CEDRATA</tspan><tspan
+         x="357.3392 360.33392 363.07184 365.48871 368.22662 372.50549 375.04388 376.96545 379.63916 383.918 386.6871 390.23676"
+         y="2.0979855"
+         sodipodi:role="line"
+         id="tspan1868"
+         style="stroke-width:0.352778">Aperol Soda</tspan><tspan
+         x="357.3392 360.54947 364.09912 367.4791 369.61255 373.1622 375.90012 377.29428 379.21588 381.88959 386.16843 388.93796 392.48761"
+         y="7.6013207"
+         sodipodi:role="line"
+         id="tspan1870"
+         style="stroke-width:0.352778">Campari Soda</tspan><tspan
+         x="357.3392 360.04501 362.46188 365.60797 368.52475 371.42316 373.96158"
+         y="13.104646"
+         sodipodi:role="line"
+         id="tspan1872"
+         style="stroke-width:0.352778">RedBull</tspan><tspan
+         x="357.3392 360.31927 364.59811 367.80838 370.92923 373.90881 378.18765 380.72836 384.27802 386.19962 388.96869 391.86713 395.07739"
+         y="18.607981"
+         sodipodi:role="line"
+         id="tspan1874"
+         style="stroke-width:0.352778">CocaCola 33cl</tspan><tspan
+         x="357.3392 360.31927 364.59811 367.80838 370.92923 373.90881 378.18765 380.72836 384.27802 386.19962 389.14389 391.56076 394.29868 398.57751 400.49908 403.26865 406.16708 409.37506 411.91577"
+         y="24.111317"
+         sodipodi:role="line"
+         id="tspan1876"
+         style="stroke-width:0.352778">cocacola zero 33cl</tspan><tspan
+         x="357.3392 359.26218 362.8118 365.73315 368.00787 371.55753 374.32663 377.22504 380.43533 382.97372"
+         y="29.614651"
+         sodipodi:role="line"
+         id="tspan1878"
+         style="stroke-width:0.352778">Fanta33cl</tspan><tspan
+         x="357.3392 360.54947 363.60385 364.99802 367.91937 371.81711 374.8577 377.48599 381.76483"
+         y="35.117989"
+         sodipodi:role="line"
+         id="tspan1880"
+         style="stroke-width:0.352778">Chinotto</tspan><tspan
+         x="357.3392 360.01291 362.91132 365.89139 369.10165 372.15601 373.5502 375.47177 378.61783 380.00974 381.9313 384.34818 387.08609 389.98453 393.02512 395.29984"
+         y="40.621311"
+         sodipodi:role="line"
+         id="tspan1882"
+         style="stroke-width:0.352778">Succhi di Frutta</tspan><tspan
+         x="357.3392 360.54947 362.96637 365.88773 368.92831 371.66623 373.06039 375.47726 378.3757 381.58597"
+         y="46.124645"
+         sodipodi:role="line"
+         id="tspan1884"
+         style="stroke-width:0.352778">Centrifuga</tspan><tspan
+         x="357.3392 359.9675 362.94757 367.25391 369.95148 373.50113 375.4227 378.35092 381.28146 384.49173"
+         y="51.627983"
+         sodipodi:role="line"
+         id="tspan1886"
+         style="stroke-width:0.352778">Acqua 50cl</tspan><tspan
+         x="429.65759 432.58582 433.90662 436.83484"
+         y="-47.432011"
+         sodipodi:role="line"
+         id="tspan1888"
+         style="stroke-width:0.352778">5.5</tspan><tspan
+         x="429.65759 432.58582 433.90662 436.83484"
+         y="-41.928688"
+         sodipodi:role="line"
+         id="tspan1890"
+         style="stroke-width:0.352778">5.5</tspan><tspan
+         x="429.65759 432.556"
+         y="-36.425339"
+         sodipodi:role="line"
+         id="tspan1892"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="429.65759"
+         y="-30.922016"
+         id="tspan1894"
+         style="stroke-width:0.352778">4</tspan><tspan
+         x="429.65759 432.47806"
+         y="-25.41868"
+         sodipodi:role="line"
+         id="tspan1896"
+         style="stroke-width:0.352778">4</tspan><tspan
+         x="429.65759 432.556 433.87683"
+         y="-19.915346"
+         sodipodi:role="line"
+         id="tspan1898"
+         style="stroke-width:0.352778">3.5</tspan><tspan
+         x="429.65759 432.556"
+         y="-14.412021"
+         sodipodi:role="line"
+         id="tspan1900"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="429.65759 432.37256 433.69336 436.62161"
+         y="-8.9086857"
+         sodipodi:role="line"
+         id="tspan1902"
+         style="stroke-width:0.352778">2.5</tspan><tspan
+         x="429.65759"
+         y="-3.40535"
+         id="tspan1904"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="429.65759 432.556"
+         y="2.0979855"
+         sodipodi:role="line"
+         id="tspan1906"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="429.65759 432.556"
+         y="7.6013207"
+         sodipodi:role="line"
+         id="tspan1908"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="429.65759"
+         y="13.104646"
+         id="tspan1910"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="429.65759 432.37256 433.69336"
+         y="18.607981"
+         sodipodi:role="line"
+         id="tspan1912"
+         style="stroke-width:0.352778">2.5</tspan><tspan
+         x="429.65759 432.37256 433.69336 436.62161"
+         y="24.111317"
+         sodipodi:role="line"
+         id="tspan1914"
+         style="stroke-width:0.352778">2.5</tspan><tspan
+         x="429.65759 432.37256 433.69336 436.62161"
+         y="29.614651"
+         sodipodi:role="line"
+         id="tspan1916"
+         style="stroke-width:0.352778">2.5</tspan><tspan
+         x="429.65759 432.37256 433.69336"
+         y="35.117989"
+         sodipodi:role="line"
+         id="tspan1918"
+         style="stroke-width:0.352778">2.5</tspan><tspan
+         x="429.65759"
+         y="40.621311"
+         id="tspan1920"
+         style="stroke-width:0.352778">2</tspan><tspan
+         x="429.65759"
+         y="46.124645"
+         id="tspan1922"
+         style="stroke-width:0.352778">4</tspan><tspan
+         x="429.65759"
+         y="51.627983"
+         id="tspan1924"
+         style="stroke-width:0.352778">1</tspan><tspan
+         x="357.3392 360.54947 363.60385 366.02072 368.43759 371.1113 374.31927 377.31403 380.22162"
+         y="149.0966"
+         sodipodi:role="line"
+         id="tspan1926"
+         style="stroke-width:0.352778">CHEESCAKE</tspan><tspan
+         x="357.3392 360.37979 361.77399 364.4798 367.47452 370.50592 371.89783 374.57153 377.46994 379.08884"
+         y="154.59993"
+         sodipodi:role="line"
+         id="tspan1928"
+         style="stroke-width:0.352778">TIRAMISU’</tspan><tspan
+         x="357.3392 360.01291 362.92969 365.6355 367.02966 370.23993 371.63184 375.91068 378.34131 380.616 382.96228"
+         y="160.10327"
+         sodipodi:role="line"
+         id="tspan1930"
+         style="stroke-width:0.352778">sBRICIOLATA</tspan><tspan
+         x="429.65759 432.58582"
+         y="149.0966"
+         sodipodi:role="line"
+         id="tspan1932"
+         style="stroke-width:0.352778">5</tspan><tspan
+         x="429.65759 432.47806"
+         y="154.59993"
+         sodipodi:role="line"
+         id="tspan1934"
+         style="stroke-width:0.352778">4</tspan><tspan
+         x="429.65759 432.47806"
+         y="160.10327"
+         sodipodi:role="line"
+         id="tspan1936"
+         style="stroke-width:0.352778">4</tspan><tspan
+         x="357.3392 360.54718 364.09683 366.51373 368.9306 371.34747"
+         y="63.097847"
+         sodipodi:role="line"
+         id="tspan1938"
+         style="stroke-width:0.352778">Caffe’</tspan><tspan
+         x="357.3392 360.54718 364.09683 366.51373 368.9306 371.34747 372.96637 374.88797 378.03403 380.45093 383.65891 387.20856"
+         y="68.601181"
+         sodipodi:role="line"
+         id="tspan1940"
+         style="stroke-width:0.352778">caffe’ Deca</tspan><tspan
+         x="357.3392 360.54718 364.09683 366.83475 369.57266 372.47107 375.45068 378.66095 380.05515 382.97647 387.25531"
+         y="74.104515"
+         sodipodi:role="line"
+         id="tspan1942"
+         style="stroke-width:0.352778">Cappuccino</tspan><tspan
+         x="357.3392 361.61804 364.35596 366.91226 371.1911"
+         y="79.607849"
+         sodipodi:role="line"
+         id="tspan1944"
+         style="stroke-width:0.352778">Orzo</tspan><tspan
+         x="357.3392 361.61804 364.35596 366.91226 371.1911 373.11267 376.32297 379.06085 382.6105 385.53186 388.67795"
+         y="85.111176"
+         sodipodi:role="line"
+         id="tspan1946"
+         style="stroke-width:0.352778">orzo Grande</tspan><tspan
+         x="357.3392 360.54718 361.94138 364.86273 367.53644 369.95331 372.87466 376.08493"
+         y="90.61451"
+         sodipodi:role="line"
+         id="tspan1948"
+         style="stroke-width:0.352778">Ginseng</tspan><tspan
+         x="357.3392 360.54718 361.94138 364.86273 367.53644 369.95331 372.87466 376.08493 378.00653 381.2168 383.95471 387.50433 390.42569 393.57178 395.98865"
+         y="96.117844"
+         sodipodi:role="line"
+         id="tspan1950"
+         style="stroke-width:0.352778">ginseng Grande</tspan><tspan
+         x="357.3392 360.33392 363.36536 366.36008 369.06589"
+         y="107.12451"
+         sodipodi:role="line"
+         id="tspan1952"
+         style="stroke-width:0.352778">AMARO</tspan><tspan
+         x="357.3392 360.03674 363.5864 364.98059 367.51898 369.93588 372.91592"
+         y="112.62785"
+         sodipodi:role="line"
+         id="tspan1954"
+         style="stroke-width:0.352778">baileys</tspan><tspan
+         x="357.3392 360.54718 363.2851 366.83475 369.57266 371.70612"
+         y="118.13118"
+         sodipodi:role="line"
+         id="tspan1956"
+         style="stroke-width:0.352778">Grappa</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1984"
+       x="357.3392"
+       y="123.63451"><tspan
+         x="357.3392 360.54718 363.2851 366.83475 369.57266 371.70612 375.25577 377.17734 379.87488 383.42453 386.16245 388.90036 390.29224 394.5986 397.49701"
+         y="123.63451"
+         sodipodi:role="line"
+         id="tspan1960"
+         style="stroke-width:0.352778">Grappa Barrique</tspan><tspan
+         x="429.65759 431.41406"
+         y="63.097843"
+         sodipodi:role="line"
+         id="tspan1962"
+         style="stroke-width:0.352778">1</tspan><tspan
+         x="429.65759 431.41406 432.73486"
+         y="68.601181"
+         sodipodi:role="line"
+         id="tspan1964"
+         style="stroke-width:0.352778">1.2</tspan><tspan
+         x="429.65759 431.41406 432.73486"
+         y="74.104515"
+         sodipodi:role="line"
+         id="tspan1966"
+         style="stroke-width:0.352778">1.5</tspan><tspan
+         x="429.65759 431.41406 432.73486"
+         y="79.607841"
+         sodipodi:role="line"
+         id="tspan1968"
+         style="stroke-width:0.352778">1.4</tspan><tspan
+         x="429.65759 431.41406 432.73486"
+         y="85.111176"
+         sodipodi:role="line"
+         id="tspan1970"
+         style="stroke-width:0.352778">1.7</tspan><tspan
+         x="429.65759 431.41406 432.73486"
+         y="90.61451"
+         sodipodi:role="line"
+         id="tspan1972"
+         style="stroke-width:0.352778">1.5</tspan><tspan
+         x="429.65759 431.41406 432.73486"
+         y="96.117844"
+         sodipodi:role="line"
+         id="tspan1974"
+         style="stroke-width:0.352778">1.8</tspan><tspan
+         x="429.65759"
+         y="107.13827"
+         id="tspan1976"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="429.65759"
+         y="112.6416"
+         id="tspan1978"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="429.65759"
+         y="118.14494"
+         id="tspan1980"
+         style="stroke-width:0.352778">3</tspan><tspan
+         x="429.65759 432.556 433.8768"
+         y="123.64827"
+         sodipodi:role="line"
+         id="tspan1982"
+         style="stroke-width:0.352778">3.5</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.94469px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1990"
+       x="330.10452"
+       y="188.4444"><tspan
+         x="330.10452 332.62714 335.12018 338.02744 340.10626 342.46124 346.14166 347.79446 350.40979 352.48865 354.67401"
+         y="188.4444"
+         sodipodi:role="line"
+         id="tspan1986"
+         style="stroke-width:0.352778">Numero tel.</tspan><tspan
+         x="330.10452 332.62515 335.2681 336.92093 339.42383 341.92755 344.30933 345.82016 348.15543 349.66623 351.80542"
+         y="193.17802"
+         sodipodi:role="line"
+         id="tspan1988"
+         style="stroke-width:0.352778">06 89612170</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:AmericanTypewriter;-inkscape-font-specification:AmericanTypewriter;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text1996"
+       x="295.65787"
+       y="147.89977"><tspan
+         x="295.65787"
+         y="147.89977"
+         id="tspan1992"
+         style="stroke-width:0.352778">*</tspan><tspan
+         x="258.34811"
+         y="199.87451"
+         id="tspan1994"
+         style="stroke-width:0.352778">*</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:AmericanTypewriter;-inkscape-font-specification:AmericanTypewriter;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text2000"
+       x="260.85034"
+       y="198.46481"><tspan
+         x="260.85034 262.04449 263.04639 264.14529 265.33945 265.95682 266.5336 267.569 268.66791 269.92731 270.99466 272.0618 272.74268 273.87332 274.71469"
+         y="198.46481"
+         sodipodi:role="line"
+         id="tspan1998"
+         style="stroke-width:0.352778">prod. congelato</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text2004"
+       x="325.2912"
+       y="81.107285"><tspan
+         x="325.2912"
+         y="81.107285"
+         id="tspan2002"
+         style="stroke-width:0.352778">*</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Market Deco';-inkscape-font-specification:MarketDeco;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text2008"
+       x="333.8912"
+       y="171.22342"><tspan
+         x="333.8912"
+         y="171.22342"
+         id="tspan2006"
+         style="stroke-width:0.352778">3</tspan></text>
+    <g
+       id="g1416-1"
+       transform="matrix(0.35277777,0,0,-0.35277777,19.54753,651.50129)">
+      <g
+         id="g1418-1"
+         clip-path="url(#clipPath1422-4)">
+        <g
+           id="g1424-3">
+          <g
+             id="g1426-7" />
+          <g
+             id="g1436-3">
+            <g
+               clip-path="url(#clipPath1430-5)"
+               opacity="0.770004"
+               id="g1434-8">
+              <path
+                 d="M 603.253,-19.596 H -18.841 v 871.397 h 622.094 z"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path1432-8" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1438-3"
+       transform="matrix(0.35277777,0,0,-0.35277777,19.547706,651.67785)">
+      <g
+         id="g1440-7"
+         clip-path="url(#clipPath1444-3)">
+        <g
+           id="g1446-2">
+          <g
+             id="g1448-8" />
+          <g
+             id="g1460-2">
+            <g
+               clip-path="url(#clipPath1452-6)"
+               opacity="0.619995"
+               id="g1458-1">
+              <g
+                 transform="translate(988.5,76.6593)"
+                 id="g1456-2">
+                <path
+                   d="m 0,0 -544.42,-481.33 -221.1,301.001 442,390.779 z"
+                   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1454-7" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1462-1">
+          <g
+             id="g1464-1" />
+          <g
+             id="g1476-0">
+            <g
+               clip-path="url(#clipPath1468-8)"
+               opacity="0.289993"
+               id="g1474-1">
+              <g
+                 transform="translate(719.75,335.5402)"
+                 id="g1472-6">
+                <path
+                   d="m 0,0 -54.77,-48.431 -33.14,21.561 -453.35,-351.78 44.49,-60.56 -47.64,-42.12 c -165.28,26.989 -330.56,53.97 -495.84,80.96 40.82,33.17 81.65,66.33 122.47,99.5 22.27,-18.58 44.54,-37.17 66.81,-55.75 251.36,213.059 502.72,426.12 754.08,639.17 5.5,32.3 10.99,64.59 16.49,96.889 1.95,1.591 3.91,3.17 5.86,4.761 C -49.69,256.13 -24.84,128.07 0,0"
+                   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1470-2" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1478-8">
+          <g
+             id="g1480-5" />
+          <g
+             id="g1492-7">
+            <g
+               clip-path="url(#clipPath1484-4)"
+               opacity="0.520004"
+               id="g1490-9">
+              <g
+                 transform="translate(695.0703,1042.3199)"
+                 id="g1488-1">
+                <path
+                   d="M 0,0 C -18.57,-109.11 -37.15,-218.23 -55.721,-327.34 -334.84,-554.11 -613.97,-780.88 -893.1,-1007.65 c -73.12,61.02 -146.24,122.029 -219.37,183.05 34.57,25.63 69.15,51.25 103.72,76.88 23.63,-19.72 47.25,-39.43 70.88,-59.151 251.36,213.061 502.72,426.111 754.08,639.171 2.04,12 4.09,24.01 6.13,36.01 C -118.44,-87.79 -59.221,-43.89 0,0"
+                   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1486-3" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g1494-7">
+          <g
+             id="g1496-2" />
+          <g
+             id="g1508-9">
+            <g
+               clip-path="url(#clipPath1500-9)"
+               opacity="0.369995"
+               id="g1506-0">
+              <g
+                 transform="translate(583.4902,1298.8497)"
+                 id="g1504-6">
+                <path
+                   d="m 0,0 c -22.03,-129.41 -44.05,-258.81 -66.08,-388.22 -277.03,-205.34 -554.05,-410.68 -831.09,-616.03 -71.76,59.88 -143.53,119.771 -215.29,179.65 C -741.64,-549.74 -370.82,-274.87 0,0"
+                   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path1502-8" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
